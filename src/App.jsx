@@ -40,16 +40,16 @@ export default function App() {
           <div className="flex items-center gap-2">
             <div className="h-6 w-6 rounded-full border-2 border-white bg-linear-to-br from-[#28AAFD] to-[#014f86] shadow-[0_0_8px_#28AAFD]" />
             <span className="font-mono text-xs font-black uppercase tracking-widest text-gray-800">
-              NATIONAL POKÉDEX ENCYCLOPEDIA
+              <p className="font-mono text-[11px] text-gray-400">
+                  Built BY ADARSH DAS
+              </p>
+              <a href="https://github.com/adarshdas13">Github |</a>
+              <a href="https://github.com/adarshdas13"> LinkedIn</a>
             </span>
           </div>
 
           <p className="max-w-md text-xs text-gray-400">
             Powered by PokeAPI • All Pokémon content and materials are trademarks and copyrights of Nintendo, Game Freak, and The Pokémon Company.
-          </p>
-
-          <p className="font-mono text-[11px] text-gray-400">
-            DEX OS v3.8 • Built BY ADARSH DAS in React & Tailwind CSS
           </p>
         </div>
       </footer>
