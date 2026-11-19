@@ -43,7 +43,7 @@ export default function App() {
                 Built BY ADARSH DAS
               </p>
               <a href="https://github.com/adarshdas13">Github |</a>
-              <a href="https://github.com/adarshdas13"> LinkedIn</a>
+              <a href="https://linkedin.com/adarshdas13"> LinkedIn</a>
             </span>
           </div>
 
